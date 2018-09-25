@@ -1,0 +1,6 @@
+﻿  HelloSDL.cpp
+c:\users\aortiz\source\repos\actividades\src\hellosdl\hellosdl.cpp(65): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\aortiz\source\repos\actividades\src\hellosdl\hellosdl.cpp(44): warning C4297: 'SDL_main': function assumed not to throw an exception but does
+  c:\users\aortiz\source\repos\actividades\src\hellosdl\hellosdl.cpp(44): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  HelloSDL.vcxproj -> C:\Users\aortiz\source\repos\Actividades\\bin\Win32Debug\HelloSDL.exe
+  0 File(s) copied

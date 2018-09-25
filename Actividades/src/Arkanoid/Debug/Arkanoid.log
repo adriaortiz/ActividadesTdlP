@@ -1,0 +1,10 @@
+﻿  Board.cpp
+c:\users\aortiz\source\repos\actividades\src\arkanoid\board.cpp(257): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+c:\users\aortiz\source\repos\actividades\src\arkanoid\main.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Menus.cpp
+  Ranking.cpp
+  Vec2.cpp
+  Generating Code...
+c:\users\aortiz\source\repos\actividades\src\arkanoid\vec2.cpp(22): warning C4715: 'Vec2::operator[]': not all control paths return a value
+  Arkanoid.vcxproj -> C:\Users\aortiz\source\repos\Actividades\Debug\Arkanoid.exe
